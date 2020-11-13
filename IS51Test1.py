@@ -29,7 +29,7 @@ return 100 * 10
   return sum
 # main
   var1 = option1
-  var2 = option1
+  var2 = option2
 
   if var1 = var2
     "Option 1 and Option 2 pays the same"
